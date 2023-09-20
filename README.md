@@ -6,6 +6,11 @@ To install dependencies:
 bun install
 ```
 
+### Download chromium
+```bash
+$ bun node_modules/puppeteer/install.js
+```
+
 To run:
 
 ```bash
